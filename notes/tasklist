@@ -1,0 +1,69 @@
+
+cookies
+    --isCookieExists()    -- Check if cookies exists
+    --rawCookies()        -- ALl cookies recieved from user  
+    --cleanCookies([cookieListToRemove])      -- Removed Our cookies
+    --setCookie(cookieDetails);          --set Cookies;
+
+headers
+    --rawHeaders()                             --All headers as received
+    --cleanHeaders([headersListToRemove])      -- Removing Our Headers
+    --setHeaders(headersDetails);        --set headers details
+
+querystring
+    --isQueryExists(queryname=null)       --check if url has any query
+    --isQueryExists(queryname)            -- return specific query name else null
+
+
+url
+
+
+28/2/2021 :643pm
+
+Ajax url set domainName
+
+
+
+proxyjs tasks
+---------------------------------
+0. create atob and btoa functions url friendly polyfill
+
+1.create url builder generate proxy url from given url;
+
+
+2.create url function return following
+    get hostname
+    get currentUrl
+    get querystring
+    get fullurl
+    get currentIp
+
+
+
+3.OnLoad change
+    iframe
+    anchor 
+    form tag
+    
+
+4.Onclick
+    anchor tag check url
+
+5.OnSubmit
+    check form url
+
+6.mutation observer
+    on element change
+    on window.location.href change
+
+
+09042021:9.24
+
+cookie change name with domain
+
+
+
+
+
+
+

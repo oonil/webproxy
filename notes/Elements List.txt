@@ -1,0 +1,20 @@
+form        =>  "action"
+
+a           =>  "href"
+link        =>  "href"
+base        =>  "href"
+area        =>  "href"
+
+blockquote  =>  "cite"
+
+script      =>  "src"
+img         =>  "src"
+iframe      =>  "src"
+embed       =>  "src"
+source      =>  "src"
+track       =>  "src"
+input       =>  "src"
+audio       =>  "src"
+video       =>  "src"
+
+

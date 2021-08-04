@@ -1,0 +1,21 @@
+Every pages is in multiple language staticly created for indexing
+
+	
+Homepage	[with search]   "/"  
+with features
+
+Terms of use			"/terms"
+
+your web
+browser is not supported        "/browser"
+
+connnection
+error				 "/connection"
+
+Form			         "/feedback/form"
+
+
+
+
+		
+

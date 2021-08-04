@@ -1,0 +1,36 @@
+1.First Patch User |
+	Overwrite Original Functions
+	--------------------------------
+		Submit
+		XHROpen,SetHeader,send
+		Fetch
+		ServiceWorker,etc
+	---------------------------------
+	Overwrite Variable Window.origin
+	---------------------------------
+		window.origin
+
+
+2.Dom
+	-----------------------------------
+	DOMChanges
+	ElelementChanges
+
+	----------------------------------
+
+
+
+
+	
+	init()
+		initScope
+		initUri
+		initLocation
+		initPopup
+		
+		
+
+
+
+
+		

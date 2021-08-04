@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>proxy</title>
+</head>
+
+<body>
+    <form action="get" id="search-form" method="get">
+        <input type="url" name="url" id="url" required>
+        <input type="submit" value="proxy">
+    </form>
+</body>
+
+<script>
+    let searchForm = document.getElementById('search-form');
+    let urlElement = document.getElementById('url');
+
+    searchForm.addEventListener("submit", (e) => {
+        e.preventDefault();
+
+        window.open(`?___(~_~)=${window.btoa(urlElement.value)}`)
+    })
+</script>
+
+</html>

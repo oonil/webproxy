@@ -1,0 +1,11 @@
+url :  
+options:
+	agent:			'
+	auth: 'user:password'
+	defaultPort:     'for protocol
+	headers:{}
+	method: 'GET'/'POST'
+	path:/index.html?page=12  'include queryString'
+	protocol:http|https
+	
+	
