@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const PORT = process.env.PORT | 4242;
 var session = require("express-session");
-
+console.log("console test branch");
 //* handle Routing
 var routeHandler = require("./src/routeHandler");
 
